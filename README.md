@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guwerner
-- 👀 I’m interested in Python, SAPUI5, ABAP, Java and JavaScript
+- 👀 I’m interested in Python, SAPUI5, ABAP, Java and JavaScript, AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gunter.werner@gmx.de
